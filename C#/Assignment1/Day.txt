@@ -1,0 +1,38 @@
+//Assignment-1 --Highlighted questions
+//2
+//Write a program to print if the given day is a working day or holiday.  Accept a number representing the day from the user and apply below logic
+	a. The number should be >0 and <=7.  
+	b. If the number is b/n 1 to 5 it is a working day
+	c. If the number is >5 - holiday
+
+
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace VsHelloworld
+{
+    class holiday
+    {
+        static void Main1()
+        {
+            Console.WriteLine("enter the day");
+            string day = Console.ReadLine();
+            int n = int.Parse(day);
+            if(n==0 || n > 7)
+            {
+                Console.WriteLine("invalid day");
+            }else if (n <= 5)
+            {
+                Console.WriteLine("working day");
+            }else
+                Console.WriteLine("holiday");
+        }
+    }
+}
+
+
