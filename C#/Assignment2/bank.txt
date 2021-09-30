@@ -1,0 +1,39 @@
+// problem statement 2
+//default and para constructor
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace OOPS
+{
+    class BankAccount
+    {
+        int Balance;
+
+        public BankAccount() //Default constructor is called
+        {
+            Balance = 500;
+        }
+
+        public BankAccount(int x) //Para.cons is called
+        {
+            Balance = x;   //Balance value will now become +balance
+        }
+
+
+        
+        public static void Main()
+        {
+           
+            BankAccount obj = new BankAccount();  //an object is created , constructor is called
+            BankAccount obj2 = new BankAccount(600);
+            Console.WriteLine(obj.Balance);
+            Console.WriteLine(obj2.Balance);   
+
+        }
+
+    }
+}
