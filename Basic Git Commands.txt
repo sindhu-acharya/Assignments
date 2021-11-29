@@ -1,3 +1,5 @@
+BASIC GIT COMMANDS TO PUSH A FILE:
+
 cd.. - To change the directory
 d:  - go to particular directory
 cd Filename - go to particular folder
@@ -8,4 +10,15 @@ git commit -m "any msg"  -  To add meaningful message to the changes
 git push -u origin master  - To push to Central Repository
 
 
-Note: If token expires, then create new token and then follow the above procedures
+
+NOTE: If token expires, then create new token and then follow the above procedures
+
+STEPS TO CREATE NEW TOKEN:
+
+Settings -> Developer settings -> Personal access tokens -> Genrate new token -> add note(some texts) 
+-> click on create -> copy the token -> PASTE it in required location
+
+
+
+NOTE: Also we can update the files using Drag and Drop functionality
+
