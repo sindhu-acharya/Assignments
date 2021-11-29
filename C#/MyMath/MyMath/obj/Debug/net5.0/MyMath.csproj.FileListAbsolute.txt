@@ -1,0 +1,12 @@
+D:\Learn\C#\MyMath\MyMath\bin\Debug\net5.0\MyMath.deps.json
+D:\Learn\C#\MyMath\MyMath\bin\Debug\net5.0\MyMath.dll
+D:\Learn\C#\MyMath\MyMath\bin\Debug\net5.0\ref\MyMath.dll
+D:\Learn\C#\MyMath\MyMath\bin\Debug\net5.0\MyMath.pdb
+D:\Learn\C#\MyMath\MyMath\obj\Debug\net5.0\MyMath.csproj.AssemblyReference.cache
+D:\Learn\C#\MyMath\MyMath\obj\Debug\net5.0\MyMath.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\C#\MyMath\MyMath\obj\Debug\net5.0\MyMath.AssemblyInfoInputs.cache
+D:\Learn\C#\MyMath\MyMath\obj\Debug\net5.0\MyMath.AssemblyInfo.cs
+D:\Learn\C#\MyMath\MyMath\obj\Debug\net5.0\MyMath.csproj.CoreCompileInputs.cache
+D:\Learn\C#\MyMath\MyMath\obj\Debug\net5.0\MyMath.dll
+D:\Learn\C#\MyMath\MyMath\obj\Debug\net5.0\ref\MyMath.dll
+D:\Learn\C#\MyMath\MyMath\obj\Debug\net5.0\MyMath.pdb
