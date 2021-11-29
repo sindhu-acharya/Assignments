@@ -1,0 +1,11 @@
+cd.. - To change the directory
+d:  - go to particular directory
+cd Filename - go to particular folder
+git status - To view the status
+git add .   -  To update all the changes at once
+git status  - after git add . command use this to check status
+git commit -m "any msg"  -  To add meaningful message to the changes
+git push -u origin master  - To push to Central Repository
+
+
+Note: If token expires, then create new token and then follow the above procedures
